@@ -20,4 +20,4 @@ Este projeto demonstra uma aplicação Spring Boot empacotada e executada via Do
 
 ## Link DockerHub
 
-[https://hub.docker.com/r/guimeb/fiap-checkpoint1-sem](https://hub.docker.com/r/guimeb/fiap-checkpoint1)
+[https://hub.docker.com/r/guimeb/fiap-checkpoint1-sem1](https://hub.docker.com/r/guimeb/fiap-checkpoint1)
