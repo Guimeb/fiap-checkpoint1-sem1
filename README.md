@@ -14,7 +14,7 @@ Este projeto demonstra uma aplicação Spring Boot empacotada e executada via Do
 
 ## Pré-requisitos
 
-- Java 18
+- Java 17
 - Maven
 - Docker
 
